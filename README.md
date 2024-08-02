@@ -27,7 +27,7 @@ I'm always working on something new! Here are a few projects I've built:
 
 Feel free to connect with me on LinkedIn or shoot me an email!
 
-- LinkedIn: [OSHIM PATHAN](www.linkedin.com/in/oshimpathan)
+- LinkedIn: [oshimpathan](www.linkedin.com/in/oshimpathan)
 - Email: work.oshimkhan@gmail.com
 
 ## 🌱 I'm Currently Learning
