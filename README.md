@@ -5,13 +5,13 @@ cat > README.md << 'EOF'
 
 <!-- About Section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/oshimpathan" target="blank">
+  <a href="https://www.linkedin.com/in/oshim7786/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="oshimpathan"/>
   </a>
   <a href="mailto:work.oshimkhan@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="work.oshimkhan@gmail.com"/>
   </a>
-  <a href="https://github.com/oshimpathan" target="blank">
+  <a href="https://github.com/oshimkhan" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="oshimpathan"/>
   </a>
 </p>
@@ -165,9 +165,9 @@ cat > README.md << 'EOF'
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshimpathan)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshim7786/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.oshimkhan@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oshimpathan)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oshimkhan)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
   
 </div>
@@ -187,7 +187,7 @@ cat > README.md << 'EOF'
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
   </p>
   
-  <p align="center">⭐️ From <a href="https://github.com/oshimpathan">@oshimpathan</a></p>
+  <p align="center">⭐️ From <a href="https://github.com/oshimkhan">@oshimpathan</a></p>
   
 </div>
 EOF
